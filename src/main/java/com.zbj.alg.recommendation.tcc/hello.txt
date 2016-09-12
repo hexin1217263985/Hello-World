@@ -1,1 +1,1 @@
-This is a text file for test the usage of git.
+This is a text file for test the usage  git.
